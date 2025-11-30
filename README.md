@@ -97,9 +97,3 @@ campus-energy-dashboard-<yourname>
 You can install dependencies using pip:
 ```bash
 pip install pandas matplotlib numpy
-
-
-
-
-
-
