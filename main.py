@@ -342,6 +342,4 @@ def main():
         print("Script terminated due to failure in Task 1 (No data ingested).")
 
 if __name__ == "__main__":
-    # Ensure you have run the script to create the 'data/' folder and the dummy CSV files
-    # OR, ensure your 'data/' folder contains CSV files with 'Timestamp' and 'Energy_kwh' columns.
     main()

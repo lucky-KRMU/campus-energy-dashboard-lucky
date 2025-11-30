@@ -75,6 +75,18 @@ Based on the execution of the pipeline, the following insights were derived:
 
 ---
 
+campus-energy-dashboard-<yourname>
+├── data/
+│   ├── Building_A_Admin.csv
+│   └── ... (All raw CSV files)
+├── output/
+│   ├── dashboard.png
+│   ├── cleaned_energy_data.csv
+│   ├── building_summary.csv
+│   └── summary.txt
+└── main.py              # The main script implementing all tasks
+└── README.md            # This file
+
 ## 🚀 5. Getting Started
 
 ### Prerequisites
@@ -85,3 +97,9 @@ Based on the execution of the pipeline, the following insights were derived:
 You can install dependencies using pip:
 ```bash
 pip install pandas matplotlib numpy
+
+
+
+
+
+
